@@ -1,0 +1,139 @@
+1.class Book:
+    title
+    price
+    pages
+    author
+
+    def read()
+    def openbook()
+
+
+2. class Laptop:
+       brand
+       ram
+       color
+       
+       def start()
+       def shutdown()
+
+3. class Tree:
+       height
+       type
+
+       def grow()
+       def givefruits()
+
+4. class Bottle:
+         color
+         price
+         capacity
+
+         def fill()
+         def empty()
+
+5. class Door:
+       material
+       size
+       price
+       
+       def open()
+       def close()
+
+6.class Switchboard:
+      switches
+      price
+      color
+
+      def switchon()
+      def switchoff()
+
+7. class Charger:
+       power
+       brand
+       color
+       price
+
+       def charge()
+       def connect()
+
+
+8. class Keyboard:
+       color
+       type
+       
+      def connect()
+      def disconnect()
+
+
+9.class Window:
+      size
+      color
+      price
+     
+      def open()
+      def close()
+      def lock()
+
+
+10. class Room:
+        doors
+        fans
+        lights
+        
+        def opendoor()  
+        def closedoor()
+        def decorate()
+
+
+11. class Nailpaint:
+        shade
+        bottlesize
+        price
+  
+        def apply()
+        def remove()
+        def open()
+        def close()
+
+
+12.class Ring:
+       shape
+       design
+       weight
+
+       def wear()
+       def remove()
+       def polish()
+
+
+13. class Hair:
+        length
+        color
+        type
+        
+        def wash()
+        def cut()
+        def style()
+
+
+14. class Bluetooth:
+        name
+        price
+        color
+        
+       def connect()
+       def disconnect()
+       def pair()
+       def unpair()
+
+
+15. class Mouse:
+        type
+        brand
+        price
+        color
+
+        def click()
+        def rightClick()
+        def scroll()
+
